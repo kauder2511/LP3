@@ -1,16 +1,14 @@
-Sun Oct 25 10:19:02 BRST 2015 : Apache Derby Servidor de Rede - 10.10.2.0 - (1582446) iniciado e pronto para aceitar conexões na porta 1527 em {3}
+Tue Nov 10 08:03:46 BRST 2015 : Apache Derby Servidor de Rede - 10.10.2.0 - (1582446) iniciado e pronto para aceitar conexões na porta 1527 em {3}
 ----------------------------------------------------------------
-Sun Oct 25 10:20:27 BRST 2015:
- Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instância a816c00e-0150-9ef0-09a3-ffffcc32de8c
-no diretório de banco de dados D:\Users\racme\Desktop\Raquel\Mackenzie\Matérias\4ºSemestre\Linguagem da Programação III\Laboratório\ProjetoHANA\LP3\bd\hanaDB 
+Tue Nov 10 08:04:16 BRST 2015:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instância a816c00e-0150-f0d9-f098-00006dc7eaa5
+no diretório de banco de dados C:\Users\willi\Documents\NetBeansProjects\ProjetoLP3\LP3\bd\hanaDB 
 
 java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_65-b17
-user.dir=D:\Users\racme\Downloads\glassfish4\javadb
+java.runtime.version=1.8.0_60-b27
+user.dir=C:\Program Files\glassfish-4.1\javadb
 os.name=Windows 10
 os.arch=amd64
 os.version=10.0
-derby.system.home=D:\Users\racme\Desktop\Raquel\Mackenzie\Matérias\4ºSemestre\Linguagem da Programação III\Laboratório\ProjetoHANA\LP3\bd
+derby.system.home=C:\Users\willi\Documents\NetBeansProjects\ProjetoLP3\LP3\bd
 Carregador de classe do banco de dados iniciado - derby.database.classpath=''
-----------------------------------------------------------------
-Sun Oct 25 19:51:06 BRST 2015: Shutting down Derby engine
